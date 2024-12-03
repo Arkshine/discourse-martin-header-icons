@@ -1,8 +1,10 @@
 {
-    "name": "SLMS Header Icons",
-    "component": true,
-    "about_url": "https://github.com/southlondonmakerspace/DiscourseHeaderIcons/blob/main/README.md",
-    "license_url": "https://github.com/southlondonmakerspace/DiscourseHeaderIcons/blob/main/LICENSE",
-     "assets": {
-     }
+  "name": "SLMS Header Icons",
+  "component": true,
+  "about_url": "https://github.com/southlondonmakerspace/DiscourseHeaderIcons/blob/main/README.md",
+  "license_url": "https://github.com/southlondonmakerspace/DiscourseHeaderIcons/blob/main/LICENSE",
+  "assets": {},
+  "modifiers": {
+    "svg_icons": ["calendar", "calendar-check", "calendar-alt"]
+  }
 }

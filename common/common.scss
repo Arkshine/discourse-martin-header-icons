@@ -1,6 +1,15 @@
-.d-header-icons .d-icon-check {
+.shutter-status {
+  .d-icon-calendar-check {
     color: green;
-}
-.d-header-icons .d-icon-times {
+  }
+
+  .d-icon-calendar-alt {
     color: red;
+  }
+}
+
+.d-header-icons .doc-header-set {
+  svg {
+    width: 1em;
+  }
 }
